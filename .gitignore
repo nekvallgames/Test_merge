@@ -2,4 +2,6 @@
 *.xml
 *.iml
 *.sln
+*.csproj
+*.cache
 /Temp

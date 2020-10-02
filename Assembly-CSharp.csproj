@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\Main.cs" />
      <Compile Include="Assets\Scripts\Main2.cs" />
      <Compile Include="Assets\Scripts\Main3.cs" />
+     <Compile Include="Assets\Scripts\Main4.cs" />
  <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
  <HintPath>C:/TestMerge2/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
  </Reference>
