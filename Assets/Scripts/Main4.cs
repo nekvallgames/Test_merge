@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Main2 : MonoBehaviour
+public class Main4 : MonoBehaviour
 {
-    // Конструктор
+    // Start is called before the first frame update
     void Start()
     {
         
