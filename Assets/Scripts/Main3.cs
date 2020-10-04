@@ -10,7 +10,8 @@ public class Main3 : MonoBehaviour
     void Start()
     {
         int aaa = 2;
-int bb = 2;
+        int bb2 = 4;
+
     }
 
     // Update is called once per frame
