@@ -9,7 +9,7 @@ public class Main3 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        int bb = 2;
     }
 
     // Update is called once per frame
