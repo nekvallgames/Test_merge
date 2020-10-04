@@ -10,6 +10,7 @@ public class Main : MonoBehaviour
         var aaa = 2;
         var aaaMain = 2;
         var aaaMain2 = 2;
+        var cowboy = 2;
     }
 
     // Update is called once per frame
