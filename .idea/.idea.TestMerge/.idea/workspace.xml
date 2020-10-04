@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c441ee-881f-4e05-a154-3782f4e39009" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Main3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Main3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Main.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Main4.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Main3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
       </list>
     </option>
   </component>
