@@ -9,6 +9,7 @@ public class Main2 : MonoBehaviour
     {
         int ss = 2;
         int bb = 2;
+        int abc = 2;
     }
 
     // Update is called once per frame
