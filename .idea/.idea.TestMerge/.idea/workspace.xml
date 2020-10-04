@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c441ee-881f-4e05-a154-3782f4e39009" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main777.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main777.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Main.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

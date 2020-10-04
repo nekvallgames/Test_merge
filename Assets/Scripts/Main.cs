@@ -8,6 +8,7 @@ public class Main : MonoBehaviour
     void Start()
     {
         var aaa = 2;
+        var aa2a = 3;
     }
 
     // Update is called once per frame
