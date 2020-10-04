@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c441ee-881f-4e05-a154-3782f4e39009" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestMerge.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TestMerge.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Main4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Main4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Main3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Main3.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main3.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1iKjnoYBEabGw5abs777CXaNeD8" />
   <component name="ProjectViewState">
@@ -55,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601663348499</updated>
       <workItem from="1601663351919" duration="608000" />
+      <workItem from="1601804424871" duration="497000" />
     </task>
     <servers />
   </component>
