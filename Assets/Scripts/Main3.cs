@@ -11,7 +11,7 @@ public class Main3 : MonoBehaviour
     {
         int aaa = 2;
         int bb2 = 4;
-
+        int ccc = 4;
     }
 
     // Update is called once per frame
