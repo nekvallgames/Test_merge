@@ -7,7 +7,7 @@ public class Main2 : MonoBehaviour
     // Конструктор
     void Start()
     {
-        
+        int ss = 2;
     }
 
     // Update is called once per frame
